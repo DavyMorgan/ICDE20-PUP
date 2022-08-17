@@ -1,7 +1,9 @@
 # PUP
-This is the official implementation of our ICDE'20 paper:  
+This is the official implementation of our ICDE'20 and TKDE papers:  
 
 Yu Zheng, Chen Gao, Xiangnan He, Yong Li, Depeng Jin, **Price-aware Recommendation with Graph Convolutional Networks**, In Proceedings of IEEE ICDE 2020.
+
+Yu Zheng, Chen Gao, Xiangnan He, Yong Li, Depeng Jin, **Incorporating Price into Recommendation with Graph Convolutional Networks**, IEEE Transactions on Knowledge and Data Engineering.
 
 ***
 First download the Yelp dataset ([link](https://www.yelp.com/dataset)) and the category file ([link](https://www.yelp.com/developers/documentation/v3/all_category_list/categories.json)).
