@@ -36,4 +36,12 @@ If you use our codes and datasets in your research, please cite:
   year={2020},
   organization={IEEE}
 }
+
+@article{zheng2021incorporating,
+  title={Incorporating price into recommendation with graph convolutional networks},
+  author={Zheng, Yu and Gao, Chen and He, Xiangnan and Jin, Depeng and Li, Yong},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}
 ```
