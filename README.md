@@ -6,7 +6,8 @@ Yu Zheng, Chen Gao, Xiangnan He, Yong Li, Depeng Jin, **Price-aware Recommendati
 Yu Zheng, Chen Gao, Xiangnan He, Yong Li, Depeng Jin, **Incorporating Price into Recommendation with Graph Convolutional Networks**, IEEE Transactions on Knowledge and Data Engineering.
 
 ***
-First download the Yelp dataset ([link](https://www.yelp.com/dataset)) and the category file ([link](https://www.yelp.com/developers/documentation/v3/all_category_list/categories.json)).
+First download the Yelp dataset ([link](https://www.yelp.com/dataset)).
+The category file of the Yelp dataset can be found at [data/categories.json](data/categories.json).
 
 
 Then generate training data and test data using the codes in src/yelp_restaurant_pipeline:
